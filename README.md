@@ -13,7 +13,7 @@
 Crie o projeto:
 
 ```bash
-laravel new sistema_laravel
+laravel new dashboard_laravel
 ```
 
 Configure o arquivo .env com os dados do seu banco:
